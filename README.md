@@ -1,2 +1,2 @@
-# Servido
+# Servidor
 Agagaggssgdh
